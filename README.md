@@ -72,9 +72,8 @@ pyschedule/
 ├── pics/ # Schedule visualizations
 ├── src/ # Core scheduling framework
 ├── README.md
+├── LICENSE
 └── MANIFEST.in
-
-
 
 
 
